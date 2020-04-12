@@ -1,7 +1,7 @@
 {
     "name":                       "@rse/soundfx",
     "publishConfig":              { "access": "public" },
-    "version":                    "0.9.0",
+    "version":                    "0.9.1",
     "description":                "Sound Effect Collection",
     "keywords":                   [ "sound", "effect" ],
     "browser":                    "./soundfx.browser.js",
