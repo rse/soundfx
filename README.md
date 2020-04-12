@@ -20,7 +20,7 @@ HTML5 Single-Page-Application (SPA).
 
 All sounds were hand-selected from free audio resources and were
 licensed by their authors under either the permissive [Creative
-Commons 0 (CC-0)](https://creativecommons.org/publicdomain/zero/1.0/]
+Commons 0 (CC-0)](https://creativecommons.org/publicdomain/zero/1.0/)
 or the [Creative Commons Attribution 3.0 Unported
 (CC-BY-3.0)](https://creativecommons.org/licenses/by/3.0/) distribution
 licenses. Check the [soundfx.d/*.txt](./soundfx.d/) files for the
