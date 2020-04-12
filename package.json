@@ -53,7 +53,7 @@
     },
     "npm-install-fetch": {
         "name":                   "%{description} %{version}",
-        "input":                  "https://github.com/rse/%{name}/archive/%{version}.tar.gz",
+        "input":                  "https://github.com/rse/soundfx/archive/%{version}.tar.gz",
         "extract":                true,
         "strip":                  1,
         "filter":                 [ "soundfx.data-sprite.mp3", "soundfx.d/**" ],
