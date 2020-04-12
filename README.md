@@ -31,6 +31,7 @@ API.
 
 For convenience reasons SoundFX provides both individual audio files
 `soundfx.d/*.mp3` and an "all-in-one" audio sprite `soundfx.data-sprite.mp3`.
+Both can be directly used with the [Howler](https://howlerjs.com/) API.
 
 Installation
 ------------
