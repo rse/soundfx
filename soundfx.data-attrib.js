@@ -38,7 +38,7 @@ const glob = require("glob")
         info[id].push(cfg)
     }
     let html = "This software uses the <a href=\"https://npmjs.com/soundfx\">SoundFX</a> Sound Effect Collection.\n"
-    for (const id of Object.keys(info)) {
+    for (const id of Object.keys(info).sort()) {
         html += `SoundFX is based on the following <a href="${info[id][0].LicenseURL}">${info[id][0].LicenseName}</a> licensed sound effects:\n`
         let first = true
         for (const fx of info[id]) {
