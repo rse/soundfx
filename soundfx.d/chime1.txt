@@ -1,0 +1,4 @@
+Sound-Origin:    https://freesound.org/s/161316/
+Sound-Copyright: husky70 @ FreeSound (2008)
+License-Name:    Creative Commons 0 (CC-0)
+License-URL:     https://creativecommons.org/publicdomain/zero/1.0/

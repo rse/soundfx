@@ -1,0 +1,4 @@
+Sound-Origin:    http://soundbible.com/2100-Splash-Rock-In-Lake.html
+Sound-Copyright: Ploor @ Soundbible (2016)
+License-Name:    Creative Commons 0 (CC-0)
+License-URL:     https://creativecommons.org/publicdomain/zero/1.0/
