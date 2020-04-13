@@ -47,7 +47,7 @@
         "clean":                        "shx rm -f soundfx.browser.js",
         "distclean":                    "shx rm -rf node_modules",
         "install":                      "npm-install-fetch",
-        "uninstall":                    "shx rm -rf src"
+        "uninstall":                    "shx rm -rf soundfx.data-sprite.mp3 soundfx.d"
     },
     "npm-install-fetch": {
         "name":                         "%{description} %{version}",
