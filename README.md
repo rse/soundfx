@@ -44,7 +44,7 @@ Usage
 -----
 
 ```js
-const Howler  = require("hower")
+const Howler  = require("howler")
 const SoundFX = require("soundfx")
 
 const soundfx = new SoundFX()
