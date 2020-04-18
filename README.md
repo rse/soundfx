@@ -5,7 +5,7 @@ SoundFX
 Sound Effect Collection
 
 <p/>
-<img src="https://nodei.co/npm/soundfx.png?downloads=true&stars=true" alt=""/>
+<img src="https://nodei.co/npm/@rse/soundfx.png?downloads=true&stars=true" alt=""/>
 
 <p/>
 <img src="https://david-dm.org/rse/soundfx.png" alt=""/>
