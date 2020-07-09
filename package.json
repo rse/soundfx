@@ -19,7 +19,7 @@
     "homepage":                         "https://github.com/rse/soundfx",
     "bugs":                             "https://github.com/rse/soundfx/issues",
     "devDependencies": {
-        "rollup":                       "2.19.0",
+        "rollup":                       "2.21.0",
         "@rollup/plugin-commonjs":      "13.0.0",
         "@rollup/plugin-replace":       "2.3.3",
         "@rollup/plugin-node-resolve":  "8.1.0",
@@ -34,7 +34,7 @@
         "audiosprite":                  "0.7.2"
     },
     "dependencies": {
-        "npm-install-fetch":            "1.2.3"
+        "npm-install-fetch":            "1.2.5"
     },
     "engines": {
         "node":                         ">=10.0.0"
