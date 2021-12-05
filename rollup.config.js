@@ -36,7 +36,7 @@ export default {
     plugins: [
         resolve({ browser: true }),
         commonjs(),
-        replace({ "__dirname": "\".\"" }),
+        replace({ "__dirname": "\".\"", preventAssignment: true }),
         json(),
         babel({
 		    babelrc: false,
